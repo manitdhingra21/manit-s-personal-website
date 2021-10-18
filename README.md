@@ -1,12 +1,18 @@
-
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
   <title>MANIT'S PERSONAL SITE</title>
+  <style>
+    hr {
+      background-color: white;
+      border-style: none;
+      height:2px;
+    }
+  </style>
 </head>
 
-<body>
+<body style="background-color: #EAF6F6;">
   <table>
 
     <tr>
@@ -68,4 +74,5 @@
 </body>
 
 </html>
+
 
